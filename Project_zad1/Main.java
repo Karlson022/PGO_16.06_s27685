@@ -1,4 +1,4 @@
-package Project;
+package Project_zad1;
 
 import java.util.ArrayList;
 import java.util.Collections;

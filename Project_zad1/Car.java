@@ -1,4 +1,4 @@
-package Project;
+package Project_zad1;
 
 public class Car implements Comparable<Car> {
 
