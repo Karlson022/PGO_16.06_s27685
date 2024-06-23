@@ -1,4 +1,4 @@
-package Project_zad2;
+package Project_zad2_zad3;
 
 public class Item {
     protected String name;
